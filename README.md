@@ -1,18 +1,16 @@
-# spl-react README
+# spl-react 
 
-code snippets for react
+code snippets for reactJs
 
-## Extension Settings
+# Installation
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+In order to install an extension you need to launch the Command Pallete (`Ctrl + Shift + P` or `Cmd + Shift + P`) and type Extensions. There you have either the option to show the already installed snippets or install new ones. Search for spl-react code snippets and install it.
 
-For example:
+# Snippet Prefixes
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+| Prefix | Description |
+| ------- | ----------|
+| component | react component |
+| dump | reacj dump component |
+| redux | duck redux reducer bundles |
+| hoc | hight order component example |
